@@ -1,9 +1,9 @@
 
 spring:
   datasource:
-    url: jdbc:mysql://likelion-database.c9qy0akgsvnw.ap-northeast-2.rds.amazonaws.com:3306/team3
+    url: jdbc:mysql://likelion-daatabase.cveu4wmoivfs.ap-northeast-2.rds.amazonaws.com:3306/team3
     username: likelion
-    password: likelion1234
+    password: "na76601125**"
 
 
   jpa:
